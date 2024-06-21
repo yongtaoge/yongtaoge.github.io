@@ -1,1 +1,1 @@
-sudo bundle exec jekyll serve --lsi
+sudo bundle exec jekyll serve --lsi --trace
